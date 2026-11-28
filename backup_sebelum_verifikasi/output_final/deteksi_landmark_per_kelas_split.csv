@@ -1,0 +1,16 @@
+split,kelas,total,terdeteksi,gagal,coverage_persen
+train,A,315,312,3,99.05
+train,E,323,322,1,99.69
+train,I,319,317,2,99.37
+train,O,313,310,3,99.04
+train,U,319,319,0,100.0
+val,A,79,79,0,100.0
+val,E,80,80,0,100.0
+val,I,79,77,2,97.47
+val,O,79,78,1,98.73
+val,U,80,80,0,100.0
+test,A,99,97,2,97.98
+test,E,100,100,0,100.0
+test,I,100,100,0,100.0
+test,O,99,97,2,97.98
+test,U,100,100,0,100.0

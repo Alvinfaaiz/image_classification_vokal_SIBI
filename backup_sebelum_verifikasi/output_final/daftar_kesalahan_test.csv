@@ -1,0 +1,6 @@
+jenis,path_relatif,label_asli,pred_e0,conf_e0,pred_e1,conf_e1
+salah_klasifikasi,dataset/O/20261127_011031.jpg,O,O,0.9999,A,0.5148
+gagal_deteksi,dataset/A/20261127_003355.jpg,A,-,,-,
+gagal_deteksi,dataset/A/20261127_003412(2).jpg,A,-,,-,
+gagal_deteksi,dataset/O/20261127_011059(0).jpg,O,-,,-,
+gagal_deteksi,dataset/O/20261127_084558(2).jpg,O,-,,-,
