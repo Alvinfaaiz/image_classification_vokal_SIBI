@@ -1,0 +1,11 @@
+opsi,grp_A,grp_E,grp_I,grp_O,grp_U,max_grp_size,semua_5_kelas,prop_train,prop_val,prop_test,max_cross_corr,q_corr_ge_090,q_dt2s_corr85
+Baseline (code_final),313,278,261,247,356,28,True,64.0,16.0,20.0,0.9709,78,123
+Opsi_a_window_2s_corr0.85,296,257,241,226,337,70,True,64.0,16.0,20.0,0.9671,76,15
+Opsi_a_window_5s_corr0.85,293,250,224,217,330,89,True,64.0,15.9,20.0,0.9671,32,14
+Opsi_a_window_10s_corr0.85,292,247,219,211,320,93,True,63.5,16.5,20.0,0.9562,22,20
+Opsi_b_waktu_2s,27,23,9,8,7,208,True,61.8,15.5,22.7,0.9506,16,0
+Opsi_b_waktu_5s,11,16,4,6,3,261,False,62.5,16.5,21.0,0.9224,4,0
+Opsi_b_waktu_10s,8,14,3,4,2,261,False,59.5,16.8,23.7,0.9224,6,0
+Opsi_b_waktu_30s,4,8,3,3,2,274,False,63.0,15.1,21.9,0.9224,5,0
+Opsi_b_waktu_60s,3,5,2,2,2,274,False,69.0,14.9,16.1,0.9224,4,0
+Opsi_b_waktu_300s,2,5,2,2,2,274,False,68.4,15.4,16.1,0.9224,5,0
